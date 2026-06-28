@@ -1,2 +1,3 @@
 # career-db
-a personal career intelligence database from spreadsheets to AI-powered intelligence platform
+
+A personal career intelligence database for researching companies, roles, skills, and industry trends -- and compile them into polished insights.
